@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
                 "Mayank's-first app",
                 textAlign: TextAlign.center,
                 style: TextStyle(
-                  fontSize: 24,
+                  fontSize: 23,
                   fontWeight: FontWeight.bold,
                 ),
               ),
